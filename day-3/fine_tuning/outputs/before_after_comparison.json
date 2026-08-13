@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Can you make a cake for someone with a severe egg allergy?",
+    "base_answer": "We understand your concern. Unfortunately, our current cake recipes do not include egg products. However, we can offer an alternative. We have a 'Vegan Delight' cake made with a blend of plant-based ingredients, including flours, sugars, and natural flavorings. This cake is free from common allergens like eggs, dairy, and nuts. Would you like me to check if this option is available for a specific order?",
+    "fine_tuned_answer": "Sweet Layers Bakery can make a cake for someone with a severe egg allergy. We will ask about the egg allergy and ensure that our ingredients are safe. We will also check the cake to ensure it is free from eggs.",
+    "reference": "Yes, our vegan cakes are fully egg-free and made with flax eggs instead, so they're a safe choice for an egg allergy. Please flag the allergy at checkout so our kitchen keeps it separate from egg-based batters.",
+    "base_rouge_l": 0.15,
+    "fine_tuned_rouge_l": 0.272
+  },
+  {
+    "prompt": "How early do I need to book a three-tier wedding cake?",
+    "base_answer": "We book our three-tier wedding cakes quite far in advance, typically 12-18 months before the wedding. However, if you're interested in a custom design or a specific flavor, we'd be happy to work with you to find a solution that fits your needs. Please contact us at your earliest convenience to discuss your ideas and we'll do our best to make them a reality.",
+    "fine_tuned_answer": "We're happy to help with your wedding cake needs. For a three-tier wedding cake, we recommend booking at least 6-8 months in advance. This allows us to ensure we have enough cake to fulfill your order. However, if your date is closer, please contact us to discuss your options. We'd be happy to help you plan your special day.",
+    "reference": "For a three-tier wedding cake, we recommend booking at least 6-8 weeks in advance, especially during busy wedding season. That gives us time to schedule a tasting and finalize your design.",
+    "base_rouge_l": 0.216,
+    "fine_tuned_rouge_l": 0.375
+  },
+  {
+    "prompt": "What's the smallest cake size you offer?",
+    "base_answer": "We offer a variety of cake sizes, but our smallest cake is perfect for a special occasion or just a sweet treat. Our smallest cake is a 1-inch round cake, which is approximately 1 inch in diameter and 1 inch tall. This adorable cake is perfect for birthdays, anniversaries, or just a sweet surprise. If you'd like to order one, I can help you with the details, including any customizations or flavor combinations you'd like to try.",
+    "fine_tuned_answer": "We offer a variety of cake sizes, but the smallest one we have is a 2-inch round cake.",
+    "reference": "Our smallest option is the 4-inch personal cake, which serves 1-2 people and comes in all our everyday flavors — great for a small celebration.",
+    "base_rouge_l": 0.189,
+    "fine_tuned_rouge_l": 0.178
+  },
+  {
+    "prompt": "Do you deliver outside a 10 mile radius?",
+    "base_answer": "We're happy to deliver our delicious cakes within a 10-mile radius. However, for orders outside this area, we offer delivery services at a cost. This is to ensure that our cakes are fresh and delivered to you quickly and safely. If you're interested in delivery, please let us know when you place your order, and we'll be in touch with more information.",
+    "fine_tuned_answer": "We offer delivery within a 10-mile radius for a small additional fee. However, please note that we do not deliver outside of this radius.",
+    "reference": "Standard local delivery covers up to 10 miles from the shop; for anything further, reach out directly and we'll see if we can arrange something special for an extra fee.",
+    "base_rouge_l": 0.144,
+    "fine_tuned_rouge_l": 0.179
+  },
+  {
+    "prompt": "Is your buttercream made with real butter?",
+    "base_answer": "Yes, our buttercream is made with real butter. We use high-quality, European-style butter to ensure a rich and creamy texture. We also use a touch of natural vanilla to give our buttercream a subtle, velvety flavor. This makes our buttercream truly unique and delicious, and we're confident it's what sets us apart from other bakeries.",
+    "fine_tuned_answer": "Yes, we use real butter in our buttercream frosting. Our butter is imported from local farms, and we carefully extract the butter from the cream to ensure it's of the highest quality. We're proud of our authentic butter, which is a key ingredient in our classic frosting.",
+    "reference": "Yes, we always use real butter in our classic buttercream for the richest flavor, though we also offer a dairy-free coconut-cream version on request.",
+    "base_rouge_l": 0.188,
+    "fine_tuned_rouge_l": 0.293
+  }
+]
